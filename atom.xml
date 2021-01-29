@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>江湖故人,相逢何必曾相识</title>
+  <title>江湖故人</title>
   
-  
+  <subtitle>相逢何必曾相识</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
